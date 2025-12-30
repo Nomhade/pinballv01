@@ -1,0 +1,62 @@
+2025-12-30 20:28:09,965 : INFO : root : Loading config.
+2025-12-30 20:28:10,014 : INFO : ConfigProcessor : Config spec file cache created: C:\Users\User\AppData\Local\Temp\config_spec.mpf_cache
+2025-12-30 20:28:10,014 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-12-30 20:28:10,015 : INFO : ConfigProcessor : Loading config from file C:\Users\User\mpfgame\Lib\site-packages\mpf\mpfconfig.yaml.
+2025-12-30 20:28:10,024 : INFO : ConfigProcessor : Loading config: C:\Users\User\mpfgame\Lib\site-packages\mpf\mpfconfig.yaml
+2025-12-30 20:28:10,024 : INFO : ConfigProcessor : Loading config from file C:\Users\User\documents\pinballv01\config\config.yaml.
+2025-12-30 20:28:10,025 : INFO : ConfigProcessor : Loading config: C:\Users\User\documents\pinballv01\config\config.yaml
+2025-12-30 20:28:10,026 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\566e5813cc4ac8f68056cabda520bca8.mpf_cache
+2025-12-30 20:28:10,573 : INFO : ConfigProcessor : Loading config from file C:\Users\User\mpfgame\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2025-12-30 20:28:10,574 : INFO : ConfigProcessor : Loading config: C:\Users\User\mpfgame\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2025-12-30 20:28:10,574 : INFO : ConfigProcessor : Loading config from file C:\Users\User\documents\pinballv01\modes\attract\config\attract.yaml.
+2025-12-30 20:28:10,574 : INFO : ConfigProcessor : Loading config: C:\Users\User\documents\pinballv01\modes\attract\config\attract.yaml
+2025-12-30 20:28:10,576 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\3a4dd558257444477545c0713d8c88ac.mpf_cache
+2025-12-30 20:28:10,576 : INFO : ConfigProcessor : Loading config from file C:\Users\User\mpfgame\Lib\site-packages\mpf\modes\game\config\game.yaml.
+2025-12-30 20:28:10,577 : INFO : ConfigProcessor : Loading config: C:\Users\User\mpfgame\Lib\site-packages\mpf\modes\game\config\game.yaml
+2025-12-30 20:28:10,578 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\4e1941255506c822e5d02b6c15a4a463.mpf_cache
+2025-12-30 20:28:10,579 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\3a4dd558257444477545c0713d8c88ac.mpf_cache
+2025-12-30 20:28:10,580 : INFO : ConfigProcessor : Loading config from file C:\Users\User\documents\pinballv01\modes\base\config\base.yaml.
+2025-12-30 20:28:10,580 : INFO : ConfigProcessor : Loading config: C:\Users\User\documents\pinballv01\modes\base\config\base.yaml
+2025-12-30 20:28:10,581 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\9c6b19ac72c345d72f79f36615ab42fc.mpf_cache
+2025-12-30 20:28:10,581 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev11
+2025-12-30 20:28:10,581 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2025-12-30-20-28-09-mpf-DESKTOP-P26P02J.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\User\\documents\\pinballv01\\logs\\2025-12-30-20-28-09-mpf-DESKTOP-P26P02J.log'}
+2025-12-30 20:28:10,582 : INFO : Machine : MPF path: C:\Users\User\mpfgame\Lib\site-packages\mpf
+2025-12-30 20:28:10,582 : INFO : Machine : Machine path: C:\Users\User\documents\pinballv01
+2025-12-30 20:28:10,582 : INFO : Machine : Platform: win32
+2025-12-30 20:28:10,582 : INFO : Machine : Python executable location: C:\Users\User\mpfgame\scripts\python.exe
+2025-12-30 20:28:10,582 : INFO : Machine : Python version: 3.12.7 (64-bit)
+2025-12-30 20:28:10,590 : INFO : Machine : Initializing MPF...
+2025-12-30 20:28:11,062 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,194 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,194 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev11', 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,194 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev11, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,194 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.7', 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,294 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.22621-SP0', 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,294 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,294 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,294 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.22621', 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,294 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,294 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\User\\documents\\pinballv01\\logs\\2025-12-30-20-28-09-mpf-DESKTOP-P26P02J.log', 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,294 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2025-12-30 20:28:11,355 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2025-12-30 20:28:11,392 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2025-12-30 20:28:11,393 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2025-12-30 20:28:11,405 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,405 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,405 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2025-12-30 20:28:11,405 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2025-12-30 20:28:11,405 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2025-12-30 20:28:11,406 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2025-12-30 20:28:11,406 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2025-12-30 20:28:11,406 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2025-12-30 20:28:11,406 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2025-12-30 20:28:11,406 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2025-12-30 20:28:11,406 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2025-12-30 20:28:11,406 : INFO : Mode.attract : Started. Priority: 10
+2025-12-30 20:28:11,406 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2025-12-30 20:28:11,406 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2025-12-30 20:28:11,407 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2025-12-30 20:28:11,407 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2025-12-30 20:28:41,716 : INFO : Machine : Shutting down...
+2025-12-30 20:28:41,716 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2025-12-30 20:28:41,717 : INFO : root : MPF run loop ended.
